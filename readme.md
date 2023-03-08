@@ -16,7 +16,7 @@ In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/
 7. Get all pairs of actors that worked together.
 
 ### Bonus:
-These questions are tricky, you can wait until after mondays lesson to use new techniques to answer them!
+These questions are tricky, you can wait until after Monday's lesson to use new techniques to answer them!
 
 8. Get all pairs of customers that have rented the same film more than 3 times.
 9. For each film, list actor that has acted in more films.
